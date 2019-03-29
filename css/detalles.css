@@ -1,0 +1,24 @@
+img.radius
+{
+ width: 250px;
+ height: 250px;
+ float: right;
+ border-radius: 25% 0 25% 0;
+ border-style: solid;
+ margin: 0px auto;
+ border: 2px solid rgb(165, 62, 237);
+ padding: 10px;
+ margin:10px;
+}
+
+.disc
+
+{
+  border-radius: 25px;
+  width: 150px;
+  height: 150px;
+  padding: 10px;
+  border: 2px solid rgb(245, 231, 76);
+  box-shadow: 0px 5px 8px rgb(242, 209, 38);
+  margin: 20px;
+}
