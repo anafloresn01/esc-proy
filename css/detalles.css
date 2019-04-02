@@ -11,6 +11,14 @@ img.radius
  margin:10px;
 }
 
+img.radius:hover
+{
+  -webkit-transform: scale(1.1);
+  -moz-transform: scale(1.1);
+  transform: scale(1.1);
+  box-shadow: 0px 5px 8px rgb(31, 101, 9); /* cambiar color*/
+}
+
 .disc
 
 {
